@@ -4,4 +4,4 @@ An interactive dashboard visualizing motor vehicle collision trends across New Y
 
 ### Tech Stack
 
-Python, Dash, Plotly, Pandas, GeoPandas, DuckDB, SQL
+Python, Dash, Plotly, GeoPandas, DuckDB, SQL
