@@ -2,7 +2,7 @@
 
 An interactive dashboard visualizing motor vehicle collision trends across New York City’s boroughs and over time.
 
-<img src="assets/5.jpg" width="400">
+<img src="assets/5.jpg" width="300">
 
 
 ### Tech Stack
