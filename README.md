@@ -5,3 +5,7 @@ An interactive dashboard visualizing motor vehicle collision trends across New Y
 ### Tech Stack
 
 Python, Dash, Plotly, GeoPandas, DuckDB, SQL
+
+### Data Source
+
+[Visit NYC Open Data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95)
