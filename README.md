@@ -1,4 +1,4 @@
-## NYC Traffic Collisions Dashboard - [Link](https://smolurl.com/KMjvNd)
+## NYC Traffic Collisions Dashboard - [Visit site](https://smolurl.com/KMjvNd)
 
 An interactive dashboard visualizing motor vehicle collision trends across New York City’s boroughs and over time.
 
@@ -8,6 +8,4 @@ An interactive dashboard visualizing motor vehicle collision trends across New Y
 
 Python, Dash, Plotly, GeoPandas, DuckDB, SQL
 
-### Data Source
-
-[Visit NYC Open Data](https://opendata.cityofnewyork.us/)
+### Data Source - [Visit NYC Open Data](https://opendata.cityofnewyork.us/)
